@@ -1,0 +1,8 @@
+wheel
+psycopg2-binary
+babel
+pytz
+passlib
+werkzeug==2.2.3
+pyPDF2
+python-dateutil
